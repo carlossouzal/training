@@ -12,5 +12,5 @@ func main() {
 	fmt.Scan(&B)
 
 	x := A + B
-	fmt.Println("X = ", x)
+	fmt.Println("X =", x)
 }
